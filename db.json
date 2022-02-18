@@ -1,0 +1,28 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Jacket",
+      "price": 50,
+      "quantity": 14
+    },
+    {
+      "id": 2,
+      "name": "Pant",
+      "price": 40,
+      "quantity": 23
+    },
+    {
+      "id": 3,
+      "name": "T-Shirt",
+      "price": 20,
+      "quantity": 29
+    },
+    {
+      "id": 4,
+      "name": "Jeans",
+      "price": 45,
+      "quantity": 12
+    }
+  ]
+}
